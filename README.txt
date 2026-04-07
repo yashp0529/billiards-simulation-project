@@ -14,6 +14,10 @@ PROJECT FILES
   requirements.txt - Python package dependencies
   README.txt       - This file
 
+## Demo Video
+Google Drive link to the 3-minute demo video:
+
+[Watch the demo video here](https://drive.google.com/file/d/1spH72jqWmJwV28Q1b5hN1c_s90TSV50v/view?usp=sharing)
 
 ------------------------------------------------------------
 STEP 1 - REQUIREMENTS
